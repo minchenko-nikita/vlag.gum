@@ -85,8 +85,8 @@ h6 {
 /* -------body---------------------------------- */
 
 body {
-    /* font-family: 'Roboto', sans-serif; */
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Roboto', sans-serif; 
+    /* font-family: 'Lobster Two', cursive; */
     font-weight: 400;
     font-size: 18px;
 }
